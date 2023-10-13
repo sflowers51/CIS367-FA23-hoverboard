@@ -23,8 +23,8 @@ body {
 }
 
 .square {
-  background-color: #444;
-  width: 16px;
+  background-color:#444;
+  width:16px;
   height: 16px;
   margin: 2px;
   transition: all 2s ease-in-out;
